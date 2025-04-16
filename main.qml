@@ -1,6 +1,3 @@
-// Copyright (C) 2022 Kambiz Asadzadeh
-// SPDX-License-Identifier: LGPL-3.0-only
-
 import QtQuick
 import QtQuick.Window
 import QtQuick.Controls.Basic
